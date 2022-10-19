@@ -1,1 +1,2 @@
 Lorem_ipsum_subtree
+Including new line
